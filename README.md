@@ -11,7 +11,6 @@ Como funciona
 
 1-O usuário informa a data de corte e seleciona um ou mais arquivos XML.
 2-Macro lê as xml's e identifica as sobras
-
 3-Ela registra lote, data, comprimento, largura, quantidade e descrição na aba correspondente ao material.
 
 Tecnologias utilizadas
