@@ -8,9 +8,12 @@ Antes desta automação, as sobras geradas no software de plano de corte eram co
 O software já permitia exportar um arquivo XML com esses dados. Desenvolvi uma macro em VBA que lê esse arquivo e preenche a planilha automaticamente.
 
 Como funciona
+
 1-O usuário informa a data de corte e seleciona um ou mais arquivos XML.
 2-Macro lê as xml's e identifica as sobras
+
 3-Ela registra lote, data, comprimento, largura, quantidade e descrição na aba correspondente ao material.
+
 Tecnologias utilizadas
 
 Excel, VBA, XML e MSXML 6.0.
